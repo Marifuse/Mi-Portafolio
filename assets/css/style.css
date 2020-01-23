@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: 'Cabin', sans-serif;
+}
+/* Navbar */
+.navbar-brand {
+  font-family: 'Permanent Marker', cursive;
+  transition: .5s;
+}
+#Navbar a:hover {
+  color: #FCB3BF;
+}
+#navbarNav a {
+  transition: .5s;
+}
+/* Imagen y textos del header */
+.jumbotron {
+  padding-top: 2em;
+  padding-bottom: 0;
+}
+ .my-photo img {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+.my-text {
+  background-color: #373A3C;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin: 0;
+}
+.my-text h3 {
+  color: #FCB3BF;
+  font-size: 3em;
+  font-family: 'Permanent Marker', cursive;
+}
+/* Sección sobre mí */
+.about-me {
+  padding: 5em;
+}
+.about-me h1 {
+  padding-bottom: 1em;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+  text-shadow: 2px 3px 2px #707070;
+}
+.paragraphs {
+  display: flex;
+  font-size: 1.5em;
+  text-align: justify;
+}
+/* Sección mi EXPERIENCIA */
+.my-experience {
+  padding: 5em;
+  background-color: #FCB3BF;
+}
+.experience-title h1 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+  text-shadow: 2px 3px 2px #707070;
+}
+.icons-table {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-top: 5em;
+}
+.icons-1 a {
+  font-size: 8em;
+  color: #373A3C;
+  transition: .5s;
+}
+.icons-2 a {
+  font-size: 8em;
+  color: #373A3C;
+  transition: .5s;
+}
+.icons-1 a:hover {
+  color: #FD4C75;
+}
+.icons-2 a:hover {
+  color: #FD4C75;
+}
+.icons-table h5 {
+  font-size: 2em;
+  text-decoration: underline;
+}
