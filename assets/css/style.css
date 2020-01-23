@@ -90,3 +90,24 @@ body {
   font-size: 2em;
   text-decoration: underline;
 }
+/* Sección Mis ULTIMOS TRABAJOS */
+.cards-section {
+  width: 100%;
+  padding: 4em;
+  background-image: url('../img/cards-wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cards-section h1 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+  text-shadow: 2px 3px 2px #707070;
+  padding-bottom: 1em;
+}
+.card-deck {
+  border-radius: 15px;
+}
+.box-1 {
+  padding-bottom: 4em;
+}
