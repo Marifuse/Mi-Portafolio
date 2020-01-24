@@ -34,7 +34,7 @@ body {
 }
 .my-text h3 {
   color: #FCB3BF;
-  font-size: 3em;
+  font-size: 2.5em;
   font-family: 'Permanent Marker', cursive;
 }
 /* Sección sobre mí */
@@ -110,4 +110,16 @@ body {
 }
 .box-1 {
   padding-bottom: 4em;
+}
+/* Sección Contacto con formulario */
+.contact {
+  padding: 8em;
+  text-align: center;
+}
+.contact h1 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+  text-shadow: 2px 3px 2px #707070;
+  padding-bottom: 1em;
 }
