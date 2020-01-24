@@ -38,9 +38,9 @@ body {
   font-family: 'Permanent Marker', cursive;
 }
 /* Sección sobre mí */
-.about-me {
+/* .about-me {
   padding: 5em;
-}
+} */
 .about-me h1 {
   padding-bottom: 1em;
   text-align: center;
@@ -54,10 +54,10 @@ body {
   text-align: justify;
 }
 /* Sección mi EXPERIENCIA */
-.my-experience {
+/* .my-experience {
   padding: 5em;
   background-color: #FCB3BF;
-}
+} */
 .experience-title h1 {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
@@ -113,7 +113,7 @@ body {
 }
 /* Sección Contacto con formulario */
 .contact {
-  padding: 8em;
+  padding: 6em;
   text-align: center;
 }
 .contact h1 {
@@ -122,4 +122,24 @@ body {
   text-decoration: underline;
   text-shadow: 2px 3px 2px #707070;
   padding-bottom: 1em;
+}
+/* Sección Footer */
+.marifuse-footer {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+}
+.marifuse-footer h5 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2em;
+  text-shadow: 2px 3px 2px #707070;
+}
+.icons-footer a {
+  color: white;
+  font-size: 2em;
+  padding-right: 0.5em;
+  transition: .5s;
+}
+.icons-footer a:hover {
+  color: #FCB3BF;
 }
