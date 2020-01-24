@@ -187,6 +187,15 @@ body {
   .contact {
     padding: 4em;
   }
+  .contact h1 {
+    padding-bottom: 0;
+  }
+  .text-inscription h5 {
+    display: none;
+  }
+  .contact button {
+    display: none;
+  }
   /* FOOTER */
   .marifuse-footer {
     display: block;
@@ -231,5 +240,20 @@ body {
   }
   .box-1 {
     padding-bottom: 0;
+  }
+  /* SECCIÓN CONTACTO */
+  .typeform-widget {
+    display: none;
+  }
+  .all-rights-reserved {
+    display: none;
+  }
+}
+@media (min-width: 800px) {
+  .typeform-widget {
+    display: none;
+  }
+  .all-rights-reserved {
+    display: none;
   }
 }
