@@ -1,0 +1,12 @@
+Consideraciones del Smooth Scroll
+
+Profesores:
+
+Intenté lo que hicieron en la clase con respecto a los scroll pero no me funcionó.
+Al final debí usar la librería anterior para que la función corriera como corresponde.
+Necesito que puedan explicar mejor esa parte porque a veces por temas de librerías, las
+funciones no corren.
+
+Saludos Cordiales.
+
+María Jesús Fuenzalida.

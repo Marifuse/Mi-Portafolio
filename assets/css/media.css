@@ -24,6 +24,9 @@
     display: none;
   }
   /* SECCIÓN EXPERIENCIAS */
+  .my-experience {
+    padding: 5em;
+  }
   .experience-title h1 {
     font-size: 1.5em;
     padding-bottom: 2em;
@@ -70,6 +73,9 @@
     font-size: 1em;
   }
   /* SECCIÓN SOBRE MI */
+  .about-me {
+    padding: 2em;
+  }
   .about-me h1 {
     font-size: 1.5em;
   }
@@ -77,6 +83,9 @@
     font-size: 1em;
   }
   /* SECCIÓN EXPERIENCIAS */
+  .my-experience {
+    padding: 5em;
+  }
   .experience-title h1 {
     font-size: 1.5em;
   }
