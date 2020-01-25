@@ -3,7 +3,7 @@
 $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 });
-// Popover en boton comenzar
+// Popover en mi nombre
 $(function () {
   $('[data-toggle="popover"]').popover()
 });
