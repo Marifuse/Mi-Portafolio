@@ -69,20 +69,12 @@ body {
   text-align: center;
   padding-top: 5em;
 }
-.icons-1 a {
+.icons__exp a {
   font-size: 8em;
   color: #373A3C;
   transition: .5s;
 }
-.icons-2 a {
-  font-size: 8em;
-  color: #373A3C;
-  transition: .5s;
-}
-.icons-1 a:hover {
-  color: #FD4C75;
-}
-.icons-2 a:hover {
+.icons__exp a:hover {
   color: #FD4C75;
 }
 .icons-table h5 {
