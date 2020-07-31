@@ -25,9 +25,10 @@ _Keywords: Front End, HTML, CSS, JavaScript, Sass, MongoDB, API, Framework, UI, 
 ## Redes de Contacto
 
 **Correo Electrónico:** _maria.fuenzalida.serrano@gmail.com_
+
 **LinkedIn:** _https://www.linkedin.com/in/marifuse/_
 
 
 **_María Jesús Fuenzalida S._**
 
-###### July 2020
+###### August 2020
